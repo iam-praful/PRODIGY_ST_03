@@ -67,7 +67,3 @@ This document presents the results of automated login testing on [SauceDemo](htt
 - ❌ Failed: **0**
 - ✔️ Coverage: Valid, Invalid, Edge Cases
 - 🔧 Framework: Selenium WebDriver + Python
-
----
-
-> *Generated automatically for academic and professional evaluation.*
